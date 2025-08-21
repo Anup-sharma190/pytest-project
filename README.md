@@ -2,7 +2,8 @@
 # Pytest  Project 🚀
 # Your Project Name
 
-[![CI](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/Anup-sharma190/pytest-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Anup-sharma190/pytest-project/actions/workflows/ci.yml)
+
 [![codecov](https://codecov.io/gh/USERNAME/REPO/branch/main/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/gh/USERNAME/REPO)
 
 ![Tests](https://github.com/YourUserName/pytest-demo-project/actions/workflows/pytest.yml/badge.svg)
