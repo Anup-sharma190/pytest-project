@@ -1,0 +1,4 @@
+pytest==8.2.0
+selenium==4.21.0
+pytest-xdist==3.5.0      # for parallel test execution
+pytest-html==4.1.1       # for HTML test reports
