@@ -1,5 +1,7 @@
 
 # Pytest  Project 🚀
+![Tests](https://github.com/YourUserName/pytest-demo-project/actions/workflows/pytest.yml/badge.svg)
+[![codecov](https://codecov.io/gh/YourUserName/pytest-demo-project/branch/main/graph/badge.svg)](https://codecov.io/gh/YourUserName/pytest-demo-project)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Pytest](https://img.shields.io/badge/Pytest-Framework-green.svg)
