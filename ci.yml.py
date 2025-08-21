@@ -1,3 +1,10 @@
+- name: Upload coverage reports to Codecov
+    uses: codecov/codecov-action@v5
+    with:
+      token: ${{ secrets.CODECOV_TOKEN }}
+
+
+
 name: CI
 
 on: [push, pull_request]
@@ -28,3 +35,4 @@ jobs:
           token: ${{ secrets.CODECOV_TOKEN }} # only for private repos
           files: ./coverage.xml
           fail_ci_if_error: true
+
