@@ -1,45 +1,32 @@
+# 🚀 Selenium Automation Framework with PyTest
 
-# Pytest  Project 
+![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+![Selenium](https://img.shields.io/badge/selenium-4.x-green.svg)
+![PyTest](https://img.shields.io/badge/pytest-automation-orange.svg)
 
-# Pytest Project 🚀
-
-[![CI](https://github.com/Anup-sharma190/pytest-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Anup-sharma190/pytest-project/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/Anup-sharma190/pytest-project/branch/main/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/gh/Anup-sharma190/pytest-project)
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Pytest](https://img.shields.io/badge/Pytest-Framework-green.svg)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Project-Active-success.svg)
-# pytest-project
-Pytest  Project – A beginner-friendly QA Automation framework using Pytest and Selenium. Includes fixtures, parameterization, cross-browser testing, and best practices for Python test automation
-# Pytest  Project 🚀
-
-This repository contains a **Pytest-based test automation framework** demonstrating:
-- Pytest basics
-- Assertions
-- Fixtures (function & class-level)
-- Parameterization
-- Cross-browser testing with Selenium
-
-It is designed as a **learning + portfolio project** to showcase QA Automation and Python testing skills.
+[![Build Status](https://github.com/USERNAME/REPO_NAME/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO_NAME/actions)
+[![codecov](https://codecov.io/gh/USERNAME/REPO_NAME/branch/main/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/USERNAME/REPO_NAME)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Open Issues](https://img.shields.io/github/issues/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME/pulls)
+[![Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=social)](https://github.com/USERNAME/REPO_NAME/stargazers)
 
 ---
 
-## 📂 Project Structure
+## 📌 Project Overview
 
-`
-pytest-project/
-│── tests/
-│ ├── test_basics.py # simple hello world, asserts
-│ ├── test_assertions.py # assert usage
-│ ├── test_fixtures.py # fixture usage
-│ ├── test_class_fixtures.py # class-level fixture example
-│ ├── test_parametrize.py # parameterized tests
-│ ├── test_crossbrowser.py # cross-browser fixture
-│ └── init.py
-│
-├── conftest.py # shared fixtures
-├── requirements.txt # project dependencies
-├── README.md # project documentation
-└── .gitignore # ignored files
+This project is a **Selenium + PyTest automation framework** built in **Python**.  
+It demonstrates end-to-end web automation, structured test organization, and integration with **CI/CD pipelines** and **code coverage reporting**.
+
+Key highlights:
+- ✅ Built using **Python 3.9+**
+- ✅ Uses **Selenium WebDriver 4.x**
+- ✅ Test execution with **PyTest**
+- ✅ CI/CD via **GitHub Actions**
+- ✅ Live code coverage tracking with **Codecov**
+- ✅ Modular, reusable, and recruiter-friendly
+
+---
+
+## ⚙️ Project Structure
+
