@@ -1,0 +1,7 @@
+pytest -v
+=================== test session starts ====================
+collected 6 items
+
+tests/test_basics.py::test_hello PASSED
+tests/test_assertions.py::test_sum PASSED
+...
