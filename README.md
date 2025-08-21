@@ -1,3 +1,11 @@
+
+# Pytest  Project 🚀
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Pytest](https://img.shields.io/badge/Pytest-Framework-green.svg)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Project-Active-success.svg)
 # pytest-project
 Pytest  Project – A beginner-friendly QA Automation framework using Pytest and Selenium. Includes fixtures, parameterization, cross-browser testing, and best practices for Python test automation
 # Pytest Demo Project 🚀
