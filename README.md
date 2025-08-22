@@ -4,8 +4,8 @@
 ![Selenium](https://img.shields.io/badge/selenium-4.x-green.svg)
 ![PyTest](https://img.shields.io/badge/pytest-automation-orange.svg)
 
-[![Build Status](https://github.com/USERNAME/REPO_NAME/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO_NAME/actions)
-[![codecov](https://codecov.io/gh/USERNAME/REPO_NAME/branch/main/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/USERNAME/REPO_NAME)
+#[![Build Status](https://github.com/USERNAME/REPO_NAME/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO_NAME/actions)
+#[![codecov](https://codecov.io/gh/USERNAME/REPO_NAME/branch/main/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/USERNAME/REPO_NAME)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Open Issues](https://img.shields.io/github/issues/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME/pulls)
